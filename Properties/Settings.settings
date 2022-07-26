@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DB_INSERT_UPDATE_DELETE.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="conn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Database=C:\C#練習\DBWINFORM2\BIN\DEBUG\CH18DB.MDF;Data Source=.\SQL2019;uid=sa;pwd=1qaz@wsx;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
